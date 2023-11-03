@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TallerDeReparacion</string>
+    <string name="buscar_por_cod_cliente_y_cod_reparaci_n">Por código de reparación y cliente</string>
+    <string name="buscar_por_cod_reparaci_n">Por código de reparación</string>
+    <string name="salir">Salir</string>
+    <string name="bienvenido">BIENVENIDO</string>
+    <string name="taller_de_reparaci_n">Taller de Reparación</string>
+    <string name="todo">TODO</string>
+    <string name="facturar">Facturar</string>
+    <string name="filter">Buscar</string>
+    <string name="cancelFilter">X</string>
+    <string name="reparacion">Reparación:</string>
+    <string name="repairId">Id</string>
+    <string name="clienteTextStyle">Cliente:</string>
+    <string name="hoursWorked">Horas:</string>
+    <string name="fecha">Fecha:</string>
+    <string name="hours">hours</string>
+    <string name="code">code</string>
+    <string name="date">date</string>
+    <string name="repuestos_usados">Repuestos</string>
+    <string name="spareparts">spareparts</string>
+    <string name="codigo_de_reparacion">Codigo de reparacion</string>
+    <string name="repair_image">Repair Image</string>
+    <string name="textview">TextView</string>
+    <string name="eleg_el_m_todo_de_busqueda_para_la_reparaci_n">Elegí el método de busqueda para la reparación</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="car_logo">car logo</string>
+    <string name="background_main">background main</string>
+    <string name="codigo_de_reparacion_text">Codigo de reparacion</string>
+    <string name="codigo_de_cliente_text">Codigo de cliente</string>
+</resources>
